@@ -1,0 +1,13 @@
+.headlines_page{
+    width: 40%;
+    padding: 50px 20px;
+}
+.headlines_news_header{
+    padding: 30px 0;
+    border-bottom: 1px dashed #ccc;
+}
+.headlines_news_header h1{
+    font-size: 48px;
+    font-weight: 600;
+    font-style: italic;
+}

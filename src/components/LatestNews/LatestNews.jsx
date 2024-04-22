@@ -57,7 +57,6 @@ const LatestNews = () => {
                 </div>
             </div>
             <div className='latest_news_right'>
-
             </div>
         </div>
     </div>
