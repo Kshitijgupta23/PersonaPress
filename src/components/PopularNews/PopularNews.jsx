@@ -17,7 +17,7 @@ const PopularNews = () => {
           <div className='popular_news_container'>
             <div className='popular_news_left'>
             <div className='popular_news_card'>
-                    <div className='popular_news_card_right'>
+                    <div className='popular_news_card_left'>
                         <h2>Keep Fit to Avoid Heart Rhythm Disorder and Stroke, Study Suggests</h2>
                         <p>The study of more than 15,000 people found that physical fitness is linked with a lower likelihood of developing both conditions.</p>
                         <div className='popular_news_card_info'>
@@ -25,12 +25,12 @@ const PopularNews = () => {
                             <p><IoEye style={{marginRight:"5px"}}/>6576</p>
                         </div>
                     </div>
-                    <div className='popular_news_card_left'>
+                    <div className='popular_news_card_right'>
                         <img src={women_gym} alt="" />
                     </div>
             </div>
                 <div className='popular_news_card'>
-                    <div className='popular_news_card_right'>
+                    <div className='popular_news_card_left'>
                         <h2>DeBrusk Hopes to Re-sign with Bruins, Eyes 30-Goal Mark This Season</h2>
                         <p>A year away from hitting unrestricted free agency next summer, Boston Bruins winger Jake DeBrusk said Tuesday he is hoping to sign an extension to stay.</p>
                         <div className='popular_news_card_info'>
@@ -38,12 +38,12 @@ const PopularNews = () => {
                             <p><IoEye style={{marginRight:"5px"}}/>2371</p>
                         </div>
                     </div>
-                    <div className='popular_news_card_left'>
+                    <div className='popular_news_card_right'>
                         <img src={icehockey} alt="" />
                     </div>
                 </div>
                 <div className='popular_news_card'>
-                    <div className='popular_news_card_right'>
+                    <div className='popular_news_card_left'>
                         <h2>Canada Men’s Soccer Training Session Scrapped Amid Compensation talks</h2>
                         <p>A planned training sessions for Canada’s men’s soccer team was scrapped Friday amid ongoing discussions about player compensation.</p>
                         <div className='popular_news_card_info'>
@@ -51,7 +51,7 @@ const PopularNews = () => {
                             <p><IoEye style={{marginRight:"5px"}}/>8497</p>
                         </div>
                     </div>
-                    <div className='popular_news_card_left'>
+                    <div className='popular_news_card_right'>
                         <img src={football} alt="" />
                     </div>
                 </div>
